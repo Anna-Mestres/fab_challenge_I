@@ -107,9 +107,9 @@ Other topics:
 2. [Make the repository](https://github.com/Anna-Mestres/fab_challenge_I#make-the-repository)
 3. [Brainstorming](https://github.com/Anna-Mestres/fab_challenge_I#brainstorming)
 4. [Prototype 1](https://github.com/Anna-Mestres/fab_challenge_I#prototype-1)
-6. [First drawings](https://github.com/Anna-Mestres/fab_challenge_I#first-ideas)
+6. [First drawings](https://github.com/Anna-Mestres/fab_challenge_I#first-drawings)
 7. [Prototype 2 (Defining rules)](https://github.com/Anna-Mestres/fab_challenge_I#prototype-2)
-8. [Design shapes and materials](https://github.com/Anna-Mestres/fab_challenge_I#design-shapes-and-materials)
+8. [Materials and Digital Fabrication](https://github.com/Anna-Mestres/fab_challenge_I#materials-and-digital-fabrication)
 9. [Prototype 3 (laser cut cardboard v1)](https://github.com/Anna-Mestres/fab_challenge_I#prototype-3)
 10. [Prototype 4 (cardboard v2)](https://github.com/Anna-Mestres/fab_challenge_I#prototype-4)
 
@@ -161,13 +161,32 @@ For this reason, an imagination exercise was carried out on the game in order to
 
 After the prototype, we have reached the conclusion of the [rules](https://github.com/Anna-Mestres/fab_challenge_I#how-to-play) to be followed, as well as of the possible [topic](https://github.com/Anna-Mestres/fab_challenge_I#topics-of-references) to be chosen.
 
-### Design Shapes and materials
+### Materials and Digital Fabrication
 
+The materials that we choose to use for create the game are:
+  * Rope
+    ![Rope material](images/rope.jpg)
+  * Sprays for colouring
+    ![Painting](images/paint.jpg)
+  * Cardboard for the pieces
+    ![Cardboard](images/cardboard.jpg)
 
+The Digital Fabrication that we use are:
+
+  * Laser cut
+  * Rhino
+    ![Rhino](images/rhino.jpg)
+  * Illustrator
+    ![AI file](images/AI.jpg)
+
+We've chosen these materials because they're accessible to everyone and you can even give this DIY dinamic.
 
 ### Prototype 3
 
+
+
 ### Prototype 4
+
 
 
 ## Conclusion
