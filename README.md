@@ -131,13 +131,13 @@ Knowing the topic (participatory game for sharing realities and connect them) we
 
 We decided to investigate currently existing collaborative games that require communication as a secondary or not so commonly played function, such as twister or mime. As well as current game designers or game design companies.   
 
-![brainstorming](images/brainstorming.jpg)
+![brainstorming](images/brainstorming.png)
 
 
 ### Prototype 1
 
-![drafts](images/drafts1.jpg)
-![drafts](images/drafts2.jpg)
+![drafts](images/draft1.jpg)
+![drafts](images/draft2.jpg)
 
 ![prototype 1](images/prototype1.gif)
 
@@ -146,7 +146,7 @@ We decided to investigate currently existing collaborative games that require co
 
 ![Drafts](images/draft3.jpg)
 ![Drafts](images/draft4.jpg)
-![First Drawing](images/Frist_Drawing.jpg)
+![First Drawing](images/First_Drawing.jpg)
 
 ### Prototype 2
 
