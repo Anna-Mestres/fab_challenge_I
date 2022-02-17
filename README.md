@@ -56,33 +56,33 @@ You can´t reach your goal without communicating and acting at the same time.
 
 ### Play
 
-1. Form a question based on your **topic**.
+1. Form a question based on your [**topic**](https://github.com/Anna-Mestres/fab_challenge_I#topics-of-references).
 2. Decide which rope you want to fill up with it’s shapes and ask the question from people who has those shapes.
 3. Answer the question with a memory, a fact or an emotion - with the answer type of the shape you have chosen.
 
 #### Topics of references
 
 * Friends, family and people around (Society):
-  *  Why is society important?
-  *  How will relations between humans develop in the future?
-  *  What type of society is going to be better for the future?
+  >  Why is society important?
+    How will relations between humans develop in the future?
+    What type of society is going to be better for the future?
 
 * Nature
-  *  Why is nature important?
-  *  How will the environment be transformed?
-  *  What do you know about nature?
+  >  Why is nature important?
+    How will the environment be transformed?
+    What do you know about nature?
 
 * Your City (Environment)
 
 * Internet and Social Media (communication technology)
-  *  Why can social media be dangerous?
-  *  How do we create awareness about the proper use of technology?
-  *  What is behind the internet?
+  >  Why can social media be dangerous?
+    How do we create awareness about the proper use of technology?
+    What is behind the internet?
 
 * Your school (education)
-  *  Why do we learn?
-  *  How is education changing in the world?
-  *  What is the most important learning?
+  > Why do we learn?
+    How is education changing in the world?
+    What is the most important learning?
 
 * You (Identity)
 
@@ -101,3 +101,13 @@ Other topics:
 ## Process
 
 ### Steps
+
+1. Sharing Ideas and Interest
+2. Make the repository
+3. Brainstorming
+4. Prootype 1
+6. First ideas
+7. Prototype 2 (Defining rules)
+8. Design shapes and materials
+9. Prototype 3 (laser cut cardboard v1)
+10. Prototype 4 (cardboard v2)
