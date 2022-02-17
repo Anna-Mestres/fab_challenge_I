@@ -1,13 +1,31 @@
 
 # Fab Academy Challenge I
 
-#### By [José Hirmas](https://jose-hirmas.github.io/mdefportafolio/), [Borbala Moravcsik](https://borbalamoravcsik.github.io/mdef-borka/) & [Anna Mestres](https://anna-mestres.github.io/anna.mestres/)
+#### By [José Hirmas](https://jose-hirmas.github.io/mdefportafolio/fab%20academy/Challenges/), [Borbala Moravcsik](https://borbalamoravcsik.github.io/mdef-borka/Fabacademy-challenge1.html) & [Anna Mestres](https://anna-mestres.github.io/anna.mestres/fab/c1.html)
+
 
 >Goal:
-*Design and make “something” that can help the process of designing/creating/thinking/collaborating with others.*
+*To create a participatory game for sharing realities and connect them. *
 
 
-## Why this game?
+## CREUAR EL PONT
+*(cross the bridge)*
+
+*Elle creu la corda per a que tots puguem passar. (they cross the rope for let all of us pass)*
+“Creu” is a cross and  to cross, but it is also believing. So we created this metaphor to understand the value of the name.
+
+**“Creu” in kids as agents of change that can transform the world.**
+
+### What is this game?
+
+It is a game to shape our common realities, to connect and to be able to express ourselves to each other. To create those bridges that separate us. It is also a game of mobility and agility. We have to listen and communicate to be aware of the situation around us.
+
+Imagine this scenario: *Kids formulating questions and answering about important topics for the future, generating reflection and new points of view. All this is happening as part of the game where shapes and ropes are the triggers for participation. Everyone has the chance to formulate a question and to respond to an answer, making the shapes go from one rope to another.*
+
+-insert image-
+*Drawing of the game simulation*
+
+### Why this game?
 
 Democratizing participation is a big challenge when imagining and co-creating the future(s). The decisions that we make as society are commonly led by the same people, generating a misunderstanding of issues and a lack of holistic wellbeing.
 
@@ -17,16 +35,14 @@ Trying to connect body movement and the freedom of speech as a powerful particip
 
 You can´t reach your goal without communicating and acting at the same time.
 
+## How to play?
 
 ### Theoretical rules for playing
 
 
 1. The goal of the game is to have the same shape of figures in each rope.
-
 2. Everyone playing must ask a question or /and respond and answer (everyone has to participate).
-
 3. When answering a question you can move one figure from one rope to another, or just drop it out.
-
 4. You only win when everyone wins.
 
 
@@ -34,10 +50,9 @@ You can´t reach your goal without communicating and acting at the same time.
 
 
 1. Open the box - place the sides of the box on the ground and step on them - you ask a question based on the topic you are standing on.
-
 2. Hold 2 ropes in your hands.
-
 3. Place any amount of shapes on the ropes, just make sure they are mixed.
+
 
 ### Play
 
