@@ -60,42 +60,42 @@ You can´t reach your goal without communicating and acting at the same time.
 2. Decide which rope you want to fill up with it’s shapes and ask the question from people who has those shapes.
 3. Answer the question with a memory, a fact or an emotion - with the answer type of the shape you have chosen.
 
-####Topics of references
+#### Topics of references
 
 * Friends, family and people around (Society):
-*  Why is society important?
-*  How will relations between humans develop in the future?
-*  What type of society is going to be better for the future?
+  *  Why is society important?
+  *  How will relations between humans develop in the future?
+  *  What type of society is going to be better for the future?
 
 * Nature
-*  Why is nature important?
-*  How will the environment be transformed?
-*  What do you know about nature?
+  *  Why is nature important?
+  *  How will the environment be transformed?
+  *  What do you know about nature?
 
 * Your City (Environment)
 
 * Internet and Social Media (communication technology)
-*  Why can social media be dangerous?
-*  How do we create awareness about the proper use of technology?
-*  What is behind the internet?
+  *  Why can social media be dangerous?
+  *  How do we create awareness about the proper use of technology?
+  *  What is behind the internet?
 
 * Your school (education)
-*  Why do we learn?
-*  How is education changing in the world?
-*  What is the most important learning?
+  *  Why do we learn?
+  *  How is education changing in the world?
+  *  What is the most important learning?
 
 * You (Identity)
 
 Other topics:
 * Art
-*  Why does art not disappearing?
-*  How does art affect humans?
-*  What is art?
+    >Why does art not disappearing?
+    How does art affect humans?
+    What is art?
 
 * Languages
-*  Why are there?
-*  How do humans communicate?
-*  What is language?
+  >  Why are there?
+    How do humans communicate?
+    What is language?
 
 
 ## Process
