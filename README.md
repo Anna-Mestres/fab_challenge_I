@@ -110,7 +110,8 @@ Knowing the topic (participatory game for sharing realities and connect them) we
 We decided to investigate currently existing collaborative games that require communication as a secondary or not so commonly played function, such as twister or mime. As well as current game designers or game design companies.   
 
 ![brainstorming](images/brainstorming.png)
-*state of art*
+*state of art.*
+*Links: [cas holman](https://casholman.com/),[Londji](https://www.londji.com/es/), [lalaloom](https://www.lalaloom.com/es/) and [BCNC Custom](https://bcnccustom.com/)*
 
 ## Prototype 1
 
@@ -158,7 +159,7 @@ The Digital Fabrication that we use are:
   * Rhino (Rhino 5 is the version to keep the files for make work the laser machine in this case)
   * Illustrator (Inskcape it's open resource it could be used too)
     ![Our tools](images/tools.jpg)
-    *Tools that we use*
+    *Tools that we used*
 
 
 ## Prototype 3
@@ -207,7 +208,6 @@ Some holes of the pieces the rope does not get to enter for this reason have had
 
 After this we paint the pieces.
 
-![Painting prototype 4](images/paint.gif)
 ![Painting prototype 4](images/paint2.jpg)
 *Painting all the pieces*
 
