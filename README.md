@@ -197,13 +197,11 @@ With the parameters:
   * Speed :
   * Frequency :
 
-![Laser prototype 3](images/prototype33.gif)
 ![Laser prototype 3](images/laser3.jpeg)
 *Laser cut with the third prototype*
 
 We separated the parts between them and retouched them a little to improve their performance. And we also test it to make sure everything works properly.
 
-![retouch prototype 3](images/protot3.jpeg)
 ![retouch prototype 3](images/prototype3.gif)
 *testing and retouching the third prototype*
 
@@ -214,6 +212,9 @@ There are two designs that do not work very well, so we will make some changes t
 
 ### Prototype 4
 
+![Laser prototype 4](images/prototype33.gif)
+![Laser prototype 4](images/prototype4.jpeg)
 
+![Box design](images/box.jpeg)
 
 ## Conclusion
