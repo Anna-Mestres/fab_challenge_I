@@ -145,8 +145,8 @@ After the prototype, we have reached the conclusion of the [rules](https://githu
 ## Materials and Digital Fabrication
 
 The materials that we choose to use for create the game are:
-  * Rope (depending on the size of the parts, if these are large the string is better to be large to improve mobility.)
-  * Sprays for colorize (another type of paint can be used if the material is different, to taste.)
+  * Rope (depending on the size of the parts, if these are large the string is better to be large to improve mobility)
+  * Sprays for colorize (another type of paint can be used if the material is different, to taste)
   * Cardboard 4 mm for the prototypes
   * MDF 3mm (two boards of 1000 x 600 mm)
     ![Our materials](images/materials.jpg)
@@ -227,5 +227,11 @@ A piece has been designed that will go to the edge of each rope as a form of gri
 
 ## Conclusion and Future development
 
+Our main interest in the future is to be able to test the game and see if players really interact with each other and reflect on the topics when playing.
 
-We've chosen these materials because they're accessible to everyone and you can even give this DIY dynamic.
+During the creation process we had some doubts about the design:
+- We would have to design it in terms of beauty or sustainability? (using acrylic, cardboard or mdf)
+- How to transform the game into a massive and open tool for participation? The idea of cardboard usage and simple rope invite us to create a DIY Kit.
+- In fabrication; prototypes are practical (Less plan, more try)
+
+It would also be great to be able to observe that whoever wants to make the game with cardboard and cutter, and with a rope. It’s much more accessible this way. Although our intention has been to try to make it more attractive to reach the maximum of people from a start, and from there each develop their own version.
