@@ -118,7 +118,7 @@ Other topics:
 We are a dispersed group from different cultures and different backgrounds. In order to initiate a starting point we have shared our personal and coercive interests with each other on the basis of the template that fabacademy has provided us with in the miro.
 
 ![Areas of interest](images/briefing.png)
-*briefing.png*
+*Areas of interest*
 
 Our focus is on connection, education, cooperation and understanding between different generations. To be able to see other points of view. As well as the interaction of play itself, the main tool used by children as a bridge between the real world and their fantasy world. For this reason we decided to focus on creating a participatory game for sharing realities and connect them.
 
@@ -133,7 +133,7 @@ Knowing the topic (participatory game for sharing realities and connect them) we
 We decided to investigate currently existing collaborative games that require communication as a secondary or not so commonly played function, such as twister or mime. As well as current game designers or game design companies.   
 
 ![brainstorming](images/brainstorming.png)
-*brainstorming*
+*state of art*
 
 ### Prototype 1
 
@@ -205,10 +205,12 @@ We separated the parts between them and retouched them a little to improve their
 
 ![retouch prototype 3](images/protot3.jpeg)
 ![retouch prototype 3](images/prototype3.gif)
-![test prototype 3](images/proto3.gif)
 *testing and retouching the third prototype*
 
 There are two designs that do not work very well, so we will make some changes to be able to correct these errors and that all the parts are useful.
+
+![test prototype 3](images/proto3.gif)
+*retouching the third prototype*
 
 ### Prototype 4
 
