@@ -8,7 +8,7 @@
 To create a participatory game for sharing realities and connect them.
 
 
-## CREUAR EL PONT *(cross the bridge)*
+## CREUAR *(cross)*
 
 *Elle creu la corda per a que tots puguem passar. (they cross the rope for let all of us pass)*
 “Creu” is a cross and  to cross, but it is also believing. So we created this metaphor to understand the value of the name.
@@ -23,7 +23,7 @@ Imagine this scenario:
 
 *Kids formulating questions and answering about important topics for the future, generating reflection and new points of view. All this is happening as part of the game where shapes and ropes are the triggers for participation. Everyone has the chance to formulate a question and to respond to an answer, making the shapes go from one rope to another.*
 
--insert image-
+![Draw of the game](images/minidraw.jpeg)
 *Drawing of the game simulation*
 
 ### Why this game?
@@ -36,7 +36,10 @@ Trying to connect body movement and the freedom of speech as a powerful particip
 
 You can´t reach your goal without communicating and acting at the same time.
 
-## How to play?
+## Game pieces
+
+![system diagram](images/.jpeg)
+*System diagram*
 
 ### Theoretical rules for playing
 
@@ -63,40 +66,12 @@ You can´t reach your goal without communicating and acting at the same time.
 
 #### Topics of references
 
-* Friends, family and people around (Society):
-  >  Why is society important?
-    How will relations between humans develop in the future?
-    What type of society is going to be better for the future?
-
-* Nature
-  >  Why is nature important?
-    How will the environment be transformed?
-    What do you know about nature?
-
-* Your City (Environment)
-
+* Society (Friends, family and people around
+* Nature and environment
+* Your City
 * Internet and Social Media (communication technology)
-  >  Why can social media be dangerous?
-    How do we create awareness about the proper use of technology?
-    What is behind the internet?
-
-* Your school (education)
-  > Why do we learn?
-    How is education changing in the world?
-    What is the most important learning?
-
-* You (Identity)
-
-Other topics:
-* Art
-    >Why does art not disappearing?
-    How does art affect humans?
-    What is art?
-
+* Who are You (your identity)
 * Languages
-  >  Why are there?
-    How do humans communicate?
-    What is language?
 
 
 ## Process
@@ -112,8 +87,10 @@ Other topics:
 8. [Materials and Digital Fabrication](https://github.com/Anna-Mestres/fab_challenge_I#materials-and-digital-fabrication)
 9. [Prototype 3 (laser cut cardboard v1)](https://github.com/Anna-Mestres/fab_challenge_I#prototype-3)
 10. [Prototype 4 (cardboard v2)](https://github.com/Anna-Mestres/fab_challenge_I#prototype-4)
+11. [Final Design](https://github.com/Anna-Mestres/fab_challenge_I#final-design)
+10. [Future Development](https://github.com/Anna-Mestres/fab_challenge_I#conclusion-and-future-development)
 
-### Sharing Ideas and Interest
+## Sharing Ideas and Interest
 
 We are a dispersed group from different cultures and different backgrounds. In order to initiate a starting point we have shared our personal and coercive interests with each other on the basis of the template that fabacademy has provided us with in the miro.
 
@@ -122,11 +99,11 @@ We are a dispersed group from different cultures and different backgrounds. In o
 
 Our focus is on connection, education, cooperation and understanding between different generations. To be able to see other points of view. As well as the interaction of play itself, the main tool used by children as a bridge between the real world and their fantasy world. For this reason we decided to focus on creating a participatory game for sharing realities and connect them.
 
-### Make the repository
+## Make the repository
 
 Once we focused on the topic, we created a common repository to upload all the files, so that all the research on this game can be an open resource. In addition, in order to be able to work together more comfortably and so that we can all edit all the documents, we use the fork programme.
 
-### Brainstorming
+## Brainstorming
 
 Knowing the topic (participatory game for sharing realities and connect them) we focused on how we could create that sharing of ideas, which so ancestrally unites us; communication. This can be in many ways; verbal, non-verbal, written, with legs, sign language, spoken, movements, looks, etc.
 
@@ -135,7 +112,7 @@ We decided to investigate currently existing collaborative games that require co
 ![brainstorming](images/brainstorming.png)
 *state of art*
 
-### Prototype 1
+## Prototype 1
 
 After all this process, we start sharing ideas that collapse all our objectives. To further our ideology, instead of closing in on ourselves, we discussed all the ideas floating around in our heads. And by sharing, we made our ideas bigger. From this came the metaphor of connecting with threads, as in asking questions, while we are connected. And taking others into account. We also flowed with the idea that it is not a competition against each other, but that if one loses we all lose. That team cooperation. All those values that in the end are essential to the ethics of humanity.
 
@@ -147,14 +124,14 @@ We finally arrived at the first idea of Creuar el Pont. We had many doubts about
 ![prototype 1](images/prototype1.gif)
 *frist prototype*
 
-### First drawings
+## First drawings
 
 After understanding what could work, we started by looking a bit at the different shapes the pieces could have. Also, discuss a bit more about the functions of the roles between the answers and the questions correlated with the shapes or colours.
 
 ![First Drawings](images/draws.jpg)
 *first drafts and drawings*
 
-### Prototype 2
+## Prototype 2
 
 In order to be able to design the game correctly, the rules of the game must be implemented and also why. There are some values that we want to be implemented, such as; respect, cooperation, fairness, understanding, above all.
 We want to make the game as free as possible, in that each group can create new rules or play as they see fit. In the end, play is imagination.
@@ -165,7 +142,7 @@ For this reason, an imagination exercise was carried out on the game in order to
 
 After the prototype, we have reached the conclusion of the [rules](https://github.com/Anna-Mestres/fab_challenge_I#how-to-play) to be followed, as well as of the possible [topic](https://github.com/Anna-Mestres/fab_challenge_I#topics-of-references) to be chosen.
 
-### Materials and Digital Fabrication
+## Materials and Digital Fabrication
 
 The materials that we choose to use for create the game are:
   * Rope (depending on the size of the parts, if these are large the string is better to be large to improve mobility.)
@@ -184,7 +161,7 @@ The Digital Fabrication that we use are:
     *Tools that we use*
 
 
-### Prototype 3
+## Prototype 3
 
 Once we got the files done, we went to cut it with the laser so we could test them.
 
@@ -207,7 +184,7 @@ There are two designs that do not work very well, so we will make some changes t
 ![test prototype 3](images/proto3.gif)
 *retouching the third prototype*
 
-### Prototype 4
+## Prototype 4
 The elements that were not working properly were then modified and cut again.
 Trotec Speedy 400 laser for cutting the 3 mm MDF.
 With the parameters:
@@ -216,23 +193,39 @@ With the parameters:
   * Frequency : 1000
 
 ![Laser prototype 4](images/prototype33.gif)
+*Laser cutting prototype 4*
 
 Since the lens was dirty, the cut wasn’t deep enough, and it didn’t finish cutting. He increased the force to 60 and cut himself again on top of it, but failed to cut definitively. So he ended up separating the pieces with a cutter.
 
 ![Cutter prototype 4](images/prototype4.jpg)
+*Process with the cutter*
 
 Some holes of the pieces the rope does not get to enter for this reason have had to sand.
 
 ![Sand prototype 4](images/sand.jpg)
+*sanding process*
 
 After this we paint the pieces.
 
 ![Painting prototype 4](images/paint.gif)
+![Painting prototype 4](images/paint2.jpg)
+*Painting all the pieces*
 
-We design the deign of the box to keep the tools inside.
+We design the box to keep all the pieces together inside. We have used each side of the box to write the main conversation topics and instructions for use. We have used each side of the box to write the main conversation topics and instructions for use.
 
-![Box design](images/box.jpeg)
+All faces will have a written theme but in one of them by the other band will be written instructions to optimize resources.
+
+A piece has been designed that will go to the edge of each rope as a form of grip.
+
+![Box design](images/box.jpg)
+*design of the box*
+
+## Final Design
+
+![Box design](images/box.jpg)
+*final design*
 
 ## Conclusion and Future development
+
 
 We've chosen these materials because they're accessible to everyone and you can even give this DIY dynamic.
