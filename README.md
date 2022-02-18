@@ -36,9 +36,10 @@ Trying to connect body movement and the freedom of speech as a powerful particip
 
 You can´t reach your goal without communicating and acting at the same time.
 
-## Game pieces
-
-![system diagram](images/.jpeg)
+### The Game
+![system diagram](images/design.jpeg)
+![system diagram](images/space.jpeg)
+![system diagram](images/diagram.jpeg)
 *System diagram*
 
 ### Theoretical rules for playing
@@ -222,7 +223,7 @@ A piece has been designed that will go to the edge of each rope as a form of gri
 
 ## Final Design
 
-![Box design](images/box.jpg)
+![Final design](images/final.jpeg)
 *final design*
 
 ## Conclusion and Future development
