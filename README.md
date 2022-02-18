@@ -217,11 +217,19 @@ With the parameters:
 
 ![Laser prototype 4](images/prototype33.gif)
 
-Since the lens was dirty the cut was not deep, and it did not finish cutting so it had to finish with a cutter. One of the possible solutions would be to increase strength.
+Since the lens was dirty, the cut wasn’t deep enough, and it didn’t finish cutting. He increased the force to 60 and cut himself again on top of it, but failed to cut definitively. So he ended up separating the pieces with a cutter.
 
-![Laser prototype 4](images/prototype4.jpg)
+![Cutter prototype 4](images/prototype4.jpg)
 
 Some holes of the pieces the rope does not get to enter for this reason have had to sand.
+
+![Sand prototype 4](images/sand.jpg)
+
+After this we paint the pieces.
+
+![Painting prototype 4](images/paint.gif)
+
+We design the deign of the box to keep the tools inside.
 
 ![Box design](images/box.jpeg)
 
