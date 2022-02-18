@@ -223,10 +223,7 @@ A piece has been designed that will go to the edge of each rope as a form of gri
 
 ## Final Design
 
-![Final design](images/final2.jpeg)
-![Final design](images/final3.jpeg)
-![Final design](images/final4.jpeg)
-![Final design](images/final5.jpeg)
+![Final design](images/final6.jpeg)
 ![Final design](images/testing.gif)
 *final design*
 
