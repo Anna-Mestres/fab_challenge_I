@@ -168,31 +168,31 @@ After the prototype, we have reached the conclusion of the [rules](https://githu
 ### Materials and Digital Fabrication
 
 The materials that we choose to use for create the game are:
-  * Rope
-  * Sprays for colorize
-  * Cardboard for the pieces
+  * Rope (depending on the size of the parts, if these are large the string is better to be large to improve mobility.)
+  * Sprays for colorize (another type of paint can be used if the material is different, to taste.)
+  * Cardboard 4 mm for the prototypes
+  * MDF 3mm (two boards of 1000 x 600 mm)
     ![Our materials](images/materials.jpg)
     *Materials that we used*
 
 The Digital Fabrication that we use are:
 
-  * Laser cut
-  * Rhino
-  * Illustrator
+  * Laser cut (Trotec Speedy 400)
+  * Rhino (Rhino 5 is the version to keep the files for make work the laser machine in this case)
+  * Illustrator (Inskcape it's open resource it could be used too)
     ![Our tools](images/tools.jpg)
     *Tools that we use*
 
-We've chosen these materials because they're accessible to everyone and you can even give this DIY dynamic. 
 
 ### Prototype 3
 
 Once we got the files done, we went to cut it with the laser so we could test them.
 
-The Multicam 2000 Laser for cutting the mm cardboard.
+Trotec Speedy 400 laser for cutting the 4 mm cardboard.
 With the parameters:
-  * Power :
-  * Speed :
-  * Frequency :
+  * Power : 40
+  * Speed : 1
+  * Frequency : 1000
 
 ![Laser prototype 3](images/laser3.jpeg)
 *Laser cut with the third prototype*
@@ -208,10 +208,23 @@ There are two designs that do not work very well, so we will make some changes t
 *retouching the third prototype*
 
 ### Prototype 4
+The elements that were not working properly were then modified and cut again.
+Trotec Speedy 400 laser for cutting the 3 mm MDF.
+With the parameters:
+  * Power : 55
+  * Speed : 0.5
+  * Frequency : 1000
 
 ![Laser prototype 4](images/prototype33.gif)
-![Laser prototype 4](images/prototype4.jpeg)
+
+Since the lens was dirty the cut was not deep, and it did not finish cutting so it had to finish with a cutter. One of the possible solutions would be to increase strength.
+
+![Laser prototype 4](images/prototype4.jpg)
+
+Some holes of the pieces the rope does not get to enter for this reason have had to sand.
 
 ![Box design](images/box.jpeg)
 
-## Conclusion adn FUture development
+## Conclusion and Future development
+
+We've chosen these materials because they're accessible to everyone and you can even give this DIY dynamic.
