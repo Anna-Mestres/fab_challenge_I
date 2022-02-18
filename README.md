@@ -118,6 +118,7 @@ Other topics:
 We are a dispersed group from different cultures and different backgrounds. In order to initiate a starting point we have shared our personal and coercive interests with each other on the basis of the template that fabacademy has provided us with in the miro.
 
 ![Areas of interest](images/briefing.png)
+*briefing.png*
 
 Our focus is on connection, education, cooperation and understanding between different generations. To be able to see other points of view. As well as the interaction of play itself, the main tool used by children as a bridge between the real world and their fantasy world. For this reason we decided to focus on creating a participatory game for sharing realities and connect them.
 
@@ -132,17 +133,19 @@ Knowing the topic (participatory game for sharing realities and connect them) we
 We decided to investigate currently existing collaborative games that require communication as a secondary or not so commonly played function, such as twister or mime. As well as current game designers or game design companies.   
 
 ![brainstorming](images/brainstorming.png)
+*brainstorming*
 
 ### Prototype 1
 
 After all this process, we start sharing ideas that collapse all our objectives. To further our ideology, instead of closing in on ourselves, we discussed all the ideas floating around in our heads. And by sharing, we made our ideas bigger. From this came the metaphor of connecting with threads, as in asking questions, while we are connected. And taking others into account. We also flowed with the idea that it is not a competition against each other, but that if one loses we all lose. That team cooperation. All those values that in the end are essential to the ethics of humanity.
 
 ![drafts](images/draft1.jpg)![drafts](images/draft2.jpg)
+*first draft*
 
 We finally arrived at the first idea of Creuar el Pont. We had many doubts about the shape of the pieces and the mechanism of the game itself, as well as the role of the questions and how to define it correctly for a better understanding. But what we had to figure out correctly was whether the mechanism of passing the pieces worked. For this reason we made a simple prototype with post-it notes and string, and tested it.
 
 ![prototype 1](images/prototype1.gif)
-
+*frist prototype*
 
 ### First drawings
 
@@ -151,6 +154,7 @@ After understanding what could work, we started by looking a bit at the differen
 ![Drafts](images/draft3.jpg)
 ![Drafts](images/draft4.jpg)
 ![First Drawing](images/First_Drawing.jpeg)
+*first drafts and drawings*
 
 ### Prototype 2
 
@@ -159,17 +163,19 @@ We want to make the game as free as possible, in that each group can create new 
 
 For this reason, an imagination exercise was carried out on the game in order to rationalise the rules and key aspects.
 
+![test prototype 2](images/prototype2.gif)
+
 After the prototype, we have reached the conclusion of the [rules](https://github.com/Anna-Mestres/fab_challenge_I#how-to-play) to be followed, as well as of the possible [topic](https://github.com/Anna-Mestres/fab_challenge_I#topics-of-references) to be chosen.
 
 ### Materials and Digital Fabrication
 
 The materials that we choose to use for create the game are:
   * Rope
-    ![Rope material](images/rope.jpg)
-  * Sprays for colouring
-    ![Painting](images/paint.jpg)
+    ![Rope material](images/rope.jpeg)
+  * Sprays for colorize
+    ![Painting](images/paint.jpeg)
   * Cardboard for the pieces
-    ![Cardboard](images/cardboard.jpg)
+    ![Cardboard](images/cardboard.jpeg)
 
 The Digital Fabrication that we use are:
 
@@ -179,11 +185,30 @@ The Digital Fabrication that we use are:
   * Illustrator
     ![AI file](images/AI.jpg)
 
-We've chosen these materials because they're accessible to everyone and you can even give this DIY dinamic.
+We've chosen these materials because they're accessible to everyone and you can even give this DIY dynamic. We've chosen these materials because they're accessible to everyone and you can even give this DIY dynamic.
 
 ### Prototype 3
 
+Once we got the files done, we went to cut it with the laser so we could test them.
 
+The Multicam 2000 Laser for cutting the mm cardboard.
+With the parameters:
+  * Power :
+  * Speed :
+  * Frequency :
+
+![Laser prototype 3](images/prototype33.gif)
+![Laser prototype 3](images/laser3.jpeg)
+*Laser cut with the third prototype*
+
+We separated the parts between them and retouched them a little to improve their performance. And we also test it to make sure everything works properly.
+
+![retouch prototype 3](images/protot3.jpeg)
+![retouch prototype 3](images/prototype3.gif)
+![test prototype 3](images/proto3.gif)
+*testing and retouching the third prototype*
+
+There are two designs that do not work very well, so we will make some changes to be able to correct these errors and that all the parts are useful.
 
 ### Prototype 4
 
