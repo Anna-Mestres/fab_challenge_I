@@ -139,8 +139,8 @@ We decided to investigate currently existing collaborative games that require co
 
 After all this process, we start sharing ideas that collapse all our objectives. To further our ideology, instead of closing in on ourselves, we discussed all the ideas floating around in our heads. And by sharing, we made our ideas bigger. From this came the metaphor of connecting with threads, as in asking questions, while we are connected. And taking others into account. We also flowed with the idea that it is not a competition against each other, but that if one loses we all lose. That team cooperation. All those values that in the end are essential to the ethics of humanity.
 
-![drafts](images/draft1.jpg)![drafts](images/draft2.jpg)
-*first draft*
+![drafts](images/drafts.jpg)
+*first drafts*
 
 We finally arrived at the first idea of Creuar el Pont. We had many doubts about the shape of the pieces and the mechanism of the game itself, as well as the role of the questions and how to define it correctly for a better understanding. But what we had to figure out correctly was whether the mechanism of passing the pieces worked. For this reason we made a simple prototype with post-it notes and string, and tested it.
 
@@ -151,9 +151,7 @@ We finally arrived at the first idea of Creuar el Pont. We had many doubts about
 
 After understanding what could work, we started by looking a bit at the different shapes the pieces could have. Also, discuss a bit more about the functions of the roles between the answers and the questions correlated with the shapes or colours.
 
-![Drafts](images/draft3.jpg)
-![Drafts](images/draft4.jpg)
-![First Drawing](images/First_Drawing.jpeg)
+![First Drawings](images/draws.jpg)
 *first drafts and drawings*
 
 ### Prototype 2
@@ -171,21 +169,20 @@ After the prototype, we have reached the conclusion of the [rules](https://githu
 
 The materials that we choose to use for create the game are:
   * Rope
-    ![Rope material](images/rope.jpeg)
   * Sprays for colorize
-    ![Painting](images/paint.jpeg)
   * Cardboard for the pieces
-    ![Cardboard](images/cardboard.jpeg)
+    ![Our materials](images/materials.jpg)
+    *Materials that we used*
 
 The Digital Fabrication that we use are:
 
   * Laser cut
   * Rhino
-    ![Rhino](images/rhino.jpg)
   * Illustrator
-    ![AI file](images/AI.jpg)
+    ![Our tools](images/tools.jpg)
+    *Tools that we use*
 
-We've chosen these materials because they're accessible to everyone and you can even give this DIY dynamic. We've chosen these materials because they're accessible to everyone and you can even give this DIY dynamic.
+We've chosen these materials because they're accessible to everyone and you can even give this DIY dynamic. 
 
 ### Prototype 3
 
@@ -217,4 +214,4 @@ There are two designs that do not work very well, so we will make some changes t
 
 ![Box design](images/box.jpeg)
 
-## Conclusion
+## Conclusion adn FUture development
